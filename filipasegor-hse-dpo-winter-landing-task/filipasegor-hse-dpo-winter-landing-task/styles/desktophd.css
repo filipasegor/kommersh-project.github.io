@@ -1,0 +1,108 @@
+@media (min-width: 1440px) {
+
+  header{
+    z-index: 10;
+    padding: 20px 90px 0;
+  }
+
+  .logo{
+    width: 246px;
+    height: 32px;
+    margin-left: -40px;
+  }
+
+  nav {
+    display: block;
+    margin-right:
+  }
+
+
+  nav ul li {
+    display: inline-block;
+    padding-left: 30px;
+  }
+
+
+  nav ul li a {
+    text-decoration: none;
+    letter-spacing: 0.1em;
+    color: #000000;
+
+    font-family: "Geometria", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+  }
+
+
+  .What-is-it{
+    margin-left: 80px;
+  }
+
+
+  .What-is-it h1{
+    font-family: "EB Garamond", serif;
+
+    font-size: 103px;
+    font-weight: 400;
+    line-height: 107px;
+    padding-bottom: 14px;
+  }
+
+
+  .is-advantages-wrapper{
+    display: flex;
+  }
+
+
+  .main-image img{
+    width: 1440px;
+    margin-top: -450px;
+  }
+
+
+  .What-about-it{
+    position: absolute;
+    right: 150px;
+    top: 900px;
+  }
+
+
+  .What-about-it-inner{
+    width: 465px;
+  }
+
+
+  .is-principles{
+    margin-top: 300px;
+  }
+
+  .principles-wrapper{
+    display: flex;
+
+    justify-content: space-around;
+    align-items: baseline;
+  }
+
+
+  .principles-wrapper article{
+    text-align: left;
+  }
+
+
+  .is-read-and-write img{
+    width: 1232px;
+    margin-left: 45px;
+  }
+
+  .is-advantages-wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
+
+  .is-advantages-wrapper article{
+    width: 320px;
+  }
+
+
+}
