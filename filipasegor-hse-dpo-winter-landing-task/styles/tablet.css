@@ -22,7 +22,7 @@
   }
 
   p {
-    font-family: "Geometria", sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-size: 20px;
     line-height: 31px;
     font-weight: 400;
@@ -31,26 +31,24 @@
   h2{
     text-align: center;
 
-    font-family: "Geometria",sans-serif;
+    font-family: "Montserrat",sans-serif;
     font-weight: 500;
     font-size: 30px;
     margin-bottom: 81px;
   }
 
   h3{
-    font-family: "Geometria",sans-serif;
+    font-family: "Montserrat",sans-serif;
     font-weight: 600;
     font-size: 25px;
 
     margin-top: 25px;
     margin-bottom: 10px;
-
   }
 
 
   .What-is-it h1{
     font-family: "EB Garamond", serif;
-
     font-size: 70px;
     font-weight: 400;
     line-height: 85px;
@@ -60,20 +58,20 @@
   .What-is-it-inner{
    width: 662px;
    text-align: left;
-   }
+  }
 
    .main-image img{
-     width: 768px;
-     margin-top: -290px;
+    width: 768px;
+    margin-top: -290px;
    }
+
 
   .What-about-it{
     position: absolute;
     right: 0px;
-    bottom: 50px;
-
-
+    top: 600px;
   }
+
 
   .What-about-it-inner{
     width: 364px;
@@ -81,13 +79,11 @@
   }
 
 
-
   .is-principles{
     width: 364px;
     margin: 0 auto;
     margin-top: 250px;
     text-align: center;
-
   }
 
 
@@ -95,17 +91,18 @@
     margin-bottom: 83px;
   }
 
+
   .is-read-and-write img{
     width: 768px;
 
   }
 
-  .is-read-and-write{
 
+  .is-read-and-write{
     text-align: center;
     margin-top: 100px;
-
   }
+
 
   .is-advantages-wrapper img{
     margin-bottom: 30px;
@@ -118,14 +115,17 @@
     margin: 0 auto;
   }
 
+
   .advantages-topics{
     width: 303px;
     margin: 0 auto;
   }
 
+
   .footer{
     margin-top: 150px;
   }
+
 
   .footer-menu{
     display: flex;
@@ -133,7 +133,6 @@
     flex-wrap: wrap;
     justify-content: space-between;
     height: 150px;
-
   }
 
 

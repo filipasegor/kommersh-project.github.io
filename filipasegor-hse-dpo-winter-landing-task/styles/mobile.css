@@ -53,7 +53,6 @@
 
   .main-image img{
     width: 319px;
-
   }
 
   .main-image{
@@ -70,20 +69,17 @@
   font-weight: 400;
   line-height: 55px;
   padding-bottom: 14px;
-
   }
 
   p{
-    font-family: "Geometria", sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-size: 16px;
     line-height: 23px;
     font-weight: 400;
-
   }
 
   .is-principles{
     margin-top: 53px;
-
   }
 
   .principles-wrapper{
@@ -109,7 +105,7 @@
 
     text-decoration: none;
 
-    font-family: "Geometria", sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-size: 16px;
     font-weight: 500;
     color: #fff;
@@ -120,19 +116,20 @@
 
   .is-read-and-write{
     text-align: center;
-
-
   }
+
+
   .is-read-and-write img{
     width: 320px;
     margin-bottom: 40px;
+    margin-top: 40px;
    }
 
 
   h2{
     text-align: center;
 
-    font-family: "Geometria",sans-serif;
+    font-family: "Montserrat",sans-serif;
     font-weight: 500;
     font-size: 21px;
   }
@@ -141,10 +138,8 @@
     margin-top: 50px;
   }
 
-
-
   .is-principles h3{
-    font-family: "Geometria",sans-serif;
+    font-family: "Montserrat",sans-serif;
     font-weight: 600;
     font-size: 25px;
 
@@ -155,17 +150,19 @@
   .is-principles article{
     margin-bottom: 43px;
 
-  }
 
+  }
 
   .extra-paragraph{
     margin-top: 17px;
   }
 
+
   .is-advantages article{
     margin-top: 64px;
     margin-bottom: 50px;
   }
+
   .is-advantages img{
     width: 250px;
     text-align: center;
@@ -176,14 +173,12 @@
 
     text-align: left;
     padding-top: 30px;
-
   }
 
   .footer-content{
     padding-top: 21px;
     padding-bottom: 90px;
     margin-left: 15px;
-
   }
 
   .logo-footer{
@@ -195,15 +190,13 @@
     text-decoration: none;
     color: #FFFFFF;
 
-    font-family: "Geometria", sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-size: 22px;
     font-weight: 400;
-
   }
 
   .footer-menu li{
     padding-bottom: 19px;
-
   }
 
   .social-networks{
@@ -217,5 +210,6 @@
 
     margin-top: 72px;
   }
+
 
 }
